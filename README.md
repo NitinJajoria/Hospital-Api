@@ -3,11 +3,11 @@
 ## Feel free to hit any API for checking the functionality. 
 ## Please use Routes - 
   - '/doctor/register' for registering doctor,
-  - '/doctor/login' for logining doctor,
+  - '/doctor/login' for login doctor,
   - '/patient/Register' for registering patient,
   - '/patient/create_report/:id' for creating report of patient,
-  - '/patient/all_reports/:id' for all reports of patient, and
-  - '/report/:status/ for filtering all reports with status (Negative, Travelled-Quarantine, Symptoms-Quarantine,Positive-Admit).
+  - '/patient/all_reports/:id' for all reports of a patient oldest to latest,
+  - '/report/:status/ for all the reports of all the patients filtered by a specific status (Negative, Travelled-Quarantine, Symptoms-Quarantine,Positive-Admit).
 
 # To setup the project on local system
    - copy the entire code on your local machine
