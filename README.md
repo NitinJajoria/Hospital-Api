@@ -15,3 +15,6 @@
    - start the node server using "npm start" command
 ## Tech Stack: Node.js & Mongo DB
 
+# Hosted Link
+  - https://hospital-api-x10y.onrender.com
+
